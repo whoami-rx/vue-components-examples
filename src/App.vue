@@ -3,6 +3,7 @@
     <div id="nav">
       <router-link to="/">FormField</router-link> |
       <router-link to="/dpicker">DatePicker</router-link> |
+      <router-link to="/smodal">SimpleModal</router-link> |
     </div>
     <router-view/>
   </div>
